@@ -1,6 +1,6 @@
 # Hello! I'm Andrew
 
-Software engineer at @microsoft.
+Software engineer at [@microsoft](https://github.com/microsoft).
 Expert in **algorithms and data structures**.
 Proficient in **Python**, **C#** and **C++**.
 Experienced in **database management**, **database development**, and **data analysis**.
